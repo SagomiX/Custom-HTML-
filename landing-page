@@ -1,0 +1,429 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="landing-page.css">
+    <title>Document</title>
+</head>
+<body>
+    <section class="hero-section">
+        <div class="Container hero-section-container">
+            <div class="Hero-section-landing-page">
+                <div class="hero-section-left">
+                    <h1>Get The Holiday Health Packs and Give The Gift of Wellness!</h1>
+                    <img src="img/Line 1.png" alt="">
+                    <h2>
+                        Limited Time Offer <br> <span>Transform Lives with Unique Gifts</span>
+                    </h2>
+                    <p>This holiday season, give the gift of health with our exclusive Holiday Health Packs from Acupuncture Atlanta. Curated with love and expertise, these limited edition packs are perfect for your loved ones seeking holistic wellness solutions. Don’t miss this opportunity to make a difference in someone’s life!</p>
+                   <div class="hero-ssection-button-cover"><a href="#" class="hero-section-button">Choose Your Pack Now</a> </div>
+                </div>
+                <div class="hero-section-right">
+                    <div class="hero-section-image-block">
+                        <img src="img/gift.png"/>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section>
+        <div class="Container unique-solution-container">
+            <h2>Unique Solutions for Your Loved Ones’ Health Needs</h2>
+            <img src="img/Line 2.png" />
+            <p>Our exclusive Holiday Health Packs are designed to tackle specific health challenges while showing your friends and family that you care. Whether it’s improving sleep, speeding up recovery from workouts, boosting immunity, or easing digestive issues, these packs are perfect for anyone in your life who could use some extra support.</p>
+        </div>
+    </section>
+    <section class="special-gift-section">
+        <div class="Container special-gift-container">
+            <div class="top-text-sec">
+                <h3>Our Holiday Packs</h3>
+                <h2>Special Gifts for Your Family</h2>
+            </div>
+            <div class="special-gift-section-grid-col">
+                <div class="grid-col-1">
+                    <div class="text-block">
+                        <h3>Pack 1</h3>
+                        <h2>Restful Nights Bundle Sleep & Relaxation Support:</h2>
+                        <img src="img/Line 3.png" />
+                        <p>Help them fall asleep faster and easier without struggle. Many struggle with sleepless nights, leading to fatigue and stress. This pack includes herbal remedies to help them relax and drift off easily, ensuring they wake up refreshed.</p>
+                        <h4>
+                            Pack Including:
+                        </h4>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Organic India -</span>Tulsi Sleep Tea 18  Bags</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Jadience - </span>Jade Herbal Eye Pillow</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Health Concerns -</span> Calm Spirit 90 count</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Banyan Botanicals -</span> Sleep Easy Oil 8 oz</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>NeuroScience Inc -</span> Kavinace OS 60 capsules</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-block">
+                            <div>
+                                <img class="inner-image" src="img/3d998288ffa681619acb6b54d3ad767d.jfif" />
+                            </div>
+                    </div>
+                </div>
+
+                <div class="grid-col-1 opp-order">
+                    <div class="text-block">
+                        <h3>Pack 2</h3>
+                        <h2>Athlete’s Performance Recovery Pack</h2>
+                        <img src="img/Line 3.png" />
+                        <p>If they’re dealing with soreness from workouts or a sports injury, this pack is perfect for faster recovery. For those who love to stay active, soreness can really slow them down. This pack helps alleviate pain and aids recovery, so they can get back to their favorite activities quicker.</p>
+                        <h4>
+                            Pack Including:
+                        </h4>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Yunnan Bai - </span> Yunnan Baiyao Plaster 5 patches 4 x 2.5 inches each</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Yunnan Baiyao Group -</span>Po Sum On Oil 1 fluid oz</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Pure Encapsulation- </span>Magnesium - Glycinate 90 veggie capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Metagenics - </span>White_check_markeyesraised_hands</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Douglas Labs -</span>Wobenzym PS 180 tablets</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-block">
+                            <div>
+                                <img class="inner-image" src="img/block-2.png" />
+                            </div>
+                    </div>
+                </div>
+
+                <div class="grid-col-1">
+                    <div class="text-block">
+                        <h3>Pack 3</h3>
+                        <h2>Immune Warrior Collection Pack:</h2>
+                        <img src="img/Line 3.png" />
+                        <p>If your family member often catches colds, this pack can help strengthen their immune defenses.</p>
+                        <p>With colder weather comes more chances of getting sick. This pack is designed to help keep their immune system strong, so they can enjoy the season without worrying about getting colds.</p>
+                        <h4>
+                            Pack Including:
+                        </h4>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen - </span>Xcellent C 120 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>K2-D3 5000 60 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>Zinc Glycinate 120 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>ActivNutrients without Iron 240 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>ProbioMax Daily DF 30 capsules</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-block">
+                            <div>
+                                <img class="inner-image" src="img/block3.jfif" />
+                            </div>
+                    </div>
+                </div>
+
+                <div class="grid-col-1 opp-order">
+                    <div class="text-block">
+                        <h3>Pack 4</h3>
+                        <h2>Digestive Harmony Essentials Gut Health</h2>
+                        <img src="img/Line 3.png" />
+                        <p>Help your loved one find relief from bloating and other digestive issues. Digestive discomfort can be a daily struggle. This pack provides the support they need to relieve bloating and maintain gut health, promoting overall comfort.</p>
+                        <h4>
+                            Pack Including:
+                        </h4>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>OptiCleanse GHI Sugar- & Stevia-Free Vanilla Delight 10 servings</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Xymogen -</span>XymoZyme 120 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Microbiome Labs -</span> MegaSporeBiotic 60 capsules</p>
+                            </div>
+                        </div>
+                        <div class="block-list-info">
+                            <div>
+                                <img src="img/Group 32.png" alt="tick">
+                            </div>
+                            <div>
+                                <p><span>Health Concerns -</span> Quiet Digestion 90 count</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="image-block">
+                            <div>
+                                <img class="inner-image" src="img/block4.jfif" />
+                            </div>
+                    </div>
+                </div>
+
+            </div>
+            
+            <div class="special-gift-section-button">
+                <a href="#"> Choose Your Pack Now</a>
+            </div>
+
+        </div>
+    <div class="bottom-x-mas">
+        <img src="img/xmas 4@4x-8 2.png" alt="">
+    </div>
+    <div class="left-side-icon-bg">
+        <img src="img/Asset 2@4x-8 1.png" alt="">
+    </div>
+    <div class="Right-side-icon-bg">
+        <img src="img/Asset 6@4x-8 1.png" alt="">
+    </div>
+    </section>
+
+    <section class="Holiday-pack-section">
+        <div class="Container Holiday-pack-container">
+            <h2>Why Choose Our Holiday Packs?</h2>
+            <h3>Personalized Gifts That Solve Real Problems</h3>
+            <img src="img/Line 2.png" />
+            <div class="mid-text-center">
+            <p>Your friends and family deserve more than just another holiday gift. Our Holiday Health Packs offer targeted 
+                solutions to their health concerns, showing that you truly care.</p>
+            </div>
+
+            <div class="block-section">
+                <div class="holiday-block-section">
+                    <h4>Gifts That Show You Care</h4>
+                    <div class="mid-border"></div>
+                    <p>Show your loved ones how much they mean to you with gifts that truly resonate with their health and wellness needs. Each Holiday Health Pack is thoughtfully curated to demonstrate your 
+                        deep understanding of their struggles and aspirations, making them feel cherished and supported.</p>
+                </div>
+
+                <div class="holiday-block-section">
+                    <h4>Gifts That Show You Care</h4>
+                    <div class="mid-border"></div>
+                    <p>Show your loved ones how much they mean to you with gifts that truly resonate with their health and wellness needs. Each Holiday Health Pack is thoughtfully curated to demonstrate your 
+                        deep understanding of their struggles and aspirations, making them feel cherished and supported.</p>
+                </div>
+            </div>
+
+            <div class="holiday-block-section">
+                <h4>Thoughtful Gifts That Say “I’m Thinking of You”</h4>
+                <div class="mid-border"></div>
+                <p>Every pack is a heartfelt reminder that you’re thinking of them. Whether it’s a friend who needs better sleep or a family member striving for digestive balance,
+                     these gifts show that you’ve put thought into their needs, reinforcing your bond and making them feel valued.</p>
+            </div>
+
+            <div class="block-section">
+                <div class="holiday-block-section">
+                    <h4>Stand Out This Christmas with Unique Gifts</h4>
+                    <div class="mid-border"></div>
+                    <p>This holiday season, go beyond the ordinary. Instead of generic gifts that often get forgotten, choose Holiday Health Packs that are unique and meaningful. 
+                        Your creativity in selecting a thoughtful gift will make you stand out and be remembered as the one who truly cared.</p>
+                </div>
+
+                <div class="holiday-block-section">
+                    <h4>Be the Thoughtful Giver They’ll Remember</h4>
+                    <div class="mid-border"></div>
+                    <p>Imagine the joy and gratitude of your loved ones when they receive a gift that genuinely improves their lives. By choosing these health packs, you’re not just giving a present; you’re providing support and encouragement,
+                         ensuring that this Christmas, your thoughtfulness will leave a lasting impression.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="extra-bonus-section">
+        <div class="Container extra-bonus-container">
+            <h1>Extra Bonus for Your Holiday Spirit!</h1>
+            <div class="mid-border"></div>
+            <div class="small-size-con">
+            <p>When you purchase any of our Holiday Health Packs before Christmas, you'll receive a $20 credit to use towards your first order in 2025!</p>
+            <span>
+                This offer is valid from January 1, 2025, until March 31, 2025.
+            </span>
+            <p>It's our way of saying thank you for choosing Acupuncture Atlanta and supporting your loved ones’ health this holiday season.</p>
+            <p>Imagine giving a thoughtful gift and securing a future discount for yourself—it's a win-win! Don't miss out on this fantastic opportunity to continue your 
+                wellness journey in the new year.</p>
+        </div>
+        </div>
+    <div class="bottom-fixed">
+        <img src="img/xmas 4@4x-8 2.png" alt="">
+    </div>
+    </section>
+
+    <section>
+        <div class="Container">
+            <div class="limited-time-offer-container">
+                <h1>Limited Time Offer</h1>
+                <h2>Act Fast!</h2>
+                <div class="mid-border"></div>
+                <p>These specially curated Holiday Health Packs are available for a limited time only. Once they’re gone,
+                     they won’t be back until next year. Don’t miss this chance to give a meaningful gift that will truly be appreciated.</p>
+                <h3>Secure Your Packs Today</h3>
+                <a href="">Choose Your Pack Now</a>
+            </div>
+        </div>
+    </section>
+
+    <section class="Acupuncture-section">
+        <div class="Container Acupuncture-container">
+            <div class="Acupuncture-grid-block">
+                <div class="empty-block"></div>
+                <div class="content-block">
+                    <h1>Why Acupuncture Atlanta?</h1>
+                    <div class="mid-border"></div>
+                    <p>Since 2005, Acupuncture Atlanta has been dedicated to providing quality Chinese herbs and supplements. With our global shipping, 
+                        you can share health and wellness with loved ones anywhere in the world. We are committed to helping our community thrive.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="hodiday-special-section">
+        <div class="Container hodiday-special-container">
+            <div class="holiday-special-inner-section">
+                <div class="left-side-container">
+                    <div>
+                    <h1>Make This Holiday Special!</h1>
+                    <div class="mid-border"></div>
+                    <p>Your thoughtful gift could spark positive change in someone’s life.
+                         Show you care by giving them the gift of health and wellness with our unique Holiday Health Packs.</p>
+                    <h2>Order Yours Now!</h2>
+                    <div class="button-cover">
+                    <a href="">Choose Your Pack Now</a>
+                    </div>
+                    </div>
+                </div>
+                <div class="right-side-con">
+                    <img src="img/special-bonus.png" alt="">
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="holiday-pack-return-policy-section">
+        <div class="Container">
+            <h1>Holiday Packs Return Policy</h1>
+            <div class="border-cover">
+            <div class="mid-border"></div>
+            </div>
+            <div class="grid-col-box">
+                <div>
+                    <ul>
+                        <li>Free shipping anywhere in the US</li>
+                        <li>30-day 100% money-back guarantee on the packs</li>
+                        <li>In case of a return, customers are responsible for shipping costs</li>
+                    </ul>
+                </div>
+                <div>
+                    <ul>
+                        <li>Returns are only accepted for unopened or sealed products</li>
+                        <li>No returns for individual items from the pack; it’s either all or nothing</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+</body>
+</html>
